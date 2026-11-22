@@ -11,6 +11,8 @@
 
 ## 公開プロジェクト
 
+> 本プロジェクトは、完全に個人による技術検証です。行政や企業からの委託、資金提供を受ける意図はなく、業務の提案や陳情を目的とするものでもありません。評価や議論の対象は、データの構造、数式の妥当性、Webの軽量化といった技術の領域に限ります。
+
 - [secret-base](https://github.com/toshio-lab/secret-base) — レトロな管理人ページと、仮想街いわた等のオープンデータ分析を載せる実験サイト（[公開サイト](https://toshio-lab.github.io/secret-base/)）
 - [iwata-open-data-analysis](https://github.com/toshio-lab/iwata-open-data-analysis) — 仮想街いわたの地域分析レポート集。テーマ15選＋統合・将来シナリオ、ダッシュボード、GISマップ（[公開サイト](https://toshio-lab.github.io/iwata-open-data-analysis/)）
 - [iwata-open-data-themes](https://github.com/toshio-lab/iwata-open-data-themes) — 仮想街いわたを17テーマで見るページ集。グラフ・表・GIS地図で掲載（[公開サイト](https://toshio-lab.github.io/iwata-open-data-themes/)）
